@@ -35,6 +35,13 @@ Install the library required to generate the QR codes:
 python3 -m pip install qrcode[pil]
 ```
 
+**If it doesn't work, try:**
+```bash
+python3 -m ensurepip
+python3 -m pip install qrcode[pil]
+```
+
+
 ---
 
 ## 🖥️ Installation
