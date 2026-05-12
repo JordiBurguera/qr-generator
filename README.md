@@ -1,4 +1,4 @@
-# Local Terminal QR Code Generator
+# Local Terminal QR Code Generator for Mac
 
 A QR code is essentially binary code expressed as an image, allowing you to generate them locally without relying on third-party services.
 
@@ -23,7 +23,7 @@ Default will take this values:
 
 ## 📋 Dependencies
 
-Press `Cmd + Space`, type **Terminal**, and open the application. Then, run the following commands:
+Press `Cmd + Space`, type **Terminal**, and open the application. Then, run the 2 following commands:
 
 ```bash
 xcode-select --install
